@@ -1,11 +1,9 @@
-# NopCommerceDeveloperRoadmap
-# ASP.NET Core Developer Roadmap
+# NopCommerce Developer Roadmap
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Backers on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/sponsors/badge.svg)](#sponsors) 
 
-[ReadMe in Chinese](ReadMe.zh-Hans.md)
 
 > Roadmap to becoming an [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2) developer in 2019:
 
