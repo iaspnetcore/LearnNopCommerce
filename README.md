@@ -87,6 +87,7 @@ If you like or are using this project to learn or start your solution, please gi
       - [Serilog](https://github.com/serilog/serilog)
       - [NLog](https://github.com/NLog/NLog)
       - [Elmah](https://elmah.github.io/)
+      - [own Log Frameworks]nopCommerce uses its own logging implementation (available in admin area)
    2. Log Management System
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
