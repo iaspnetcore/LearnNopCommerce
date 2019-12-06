@@ -104,7 +104,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 9. Object Mapping
 
-   - [AutoMapper][*](https://github.com/AutoMapper/AutoMapper)
+   - [AutoMapper(used)](https://github.com/AutoMapper/AutoMapper)
    - [Mapster](https://github.com/MapsterMapper/Mapster)
    - [AgileMapper](https://github.com/agileobjects/AgileMapper)
    - [ExpressMapper](http://expressmapper.org/)
@@ -120,7 +120,7 @@ If you like or are using this project to learn or start your solution, please gi
 11. Good to Know
 
     - [MediatR](https://github.com/jbogard/MediatR)
-    - [Fluent Validation][*](https://github.com/JeremySkinner/FluentValidation)
+    - [Fluent Validation(used)](https://github.com/JeremySkinner/FluentValidation)
     - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
     - [Benchmark.NET](https://github.com/dotnet/BenchmarkDotNet)
     - [Polly](https://github.com/App-vNext/Polly)
