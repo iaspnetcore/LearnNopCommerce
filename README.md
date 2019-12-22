@@ -42,7 +42,7 @@ If you like or are using this project to learn or start your solution, please gi
 
    1. DI Containers
       - [Microsoft.Extensions.DependencyInjection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2)
-      - [AutoFac](https://autofaccn.readthedocs.io/en/latest/integration/aspnetcore.html)
+      - [AutoFac(used by nopcommerce)](https://autofaccn.readthedocs.io/en/latest/integration/aspnetcore.html)
       - [Ninject](http://www.ninject.org/)
       - [StructureMap](https://github.com/structuremap/structuremap)
       - [Castle Windsor](https://github.com/castleproject/Windsor)
@@ -52,7 +52,7 @@ If you like or are using this project to learn or start your solution, please gi
 4. Databases
 
    1. Relational
-      1. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
+      1. [SQL Server(used by nopcommerce](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
       2. [PostgreSQL](https://www.postgresql.org/)
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
@@ -65,7 +65,7 @@ If you like or are using this project to learn or start your solution, please gi
       - [Sphinx](http://sphinxsearch.com/)
    4. NoSQL
       - [MongoDB](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-2.2&tabs=visual-studio)
-      - [Redis](https://redis.io/)
+      - [Redis(used by nopcommerce)](https://redis.io/)
       - [Apache Cassandra](http://cassandra.apache.org/)
       - [LiteDB](https://github.com/mbdavid/LiteDB)
       - [RavenDB](https://github.com/ravendb/ravendb)
@@ -77,7 +77,7 @@ If you like or are using this project to learn or start your solution, please gi
       1. [EFSecondLevelCache.Core](https://github.com/VahidN/EFSecondLevelCache.Core)
       2. [EntityFrameworkCore.Cacheable](https://github.com/SteffenMangold/EntityFrameworkCore.Cacheable)
    2. [Distributed Cache](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-2.2)
-      1. [Redis](https://redis.io/)
+      1. [Redis(used by nopcommerce)](https://redis.io/)
       2. [Memcached](https://memcached.org/)
    3. [Memory Cache](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-2.2)
 
@@ -104,7 +104,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 9. Object Mapping
 
-   - [AutoMapper(used)](https://github.com/AutoMapper/AutoMapper)
+   - [AutoMapper(used by nopcommerce)](https://github.com/AutoMapper/AutoMapper)
    - [Mapster](https://github.com/MapsterMapper/Mapster)
    - [AgileMapper](https://github.com/agileobjects/AgileMapper)
    - [ExpressMapper](http://expressmapper.org/)
@@ -120,7 +120,7 @@ If you like or are using this project to learn or start your solution, please gi
 11. Good to Know
 
     - [MediatR](https://github.com/jbogard/MediatR)
-    - [Fluent Validation(used)](https://github.com/JeremySkinner/FluentValidation)
+    - [Fluent Validation(used by nopcommerce)](https://github.com/JeremySkinner/FluentValidation)
     - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
     - [Benchmark.NET](https://github.com/dotnet/BenchmarkDotNet)
     - [Polly](https://github.com/App-vNext/Polly)
