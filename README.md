@@ -52,7 +52,7 @@ If you like or are using this project to learn or start your solution, please gi
 4. Databases
 
    1. Relational
-      1. [SQL Server(used by nopcommerce](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
+      1. [SQL Server(used by nopcommerce)](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
       2. [PostgreSQL](https://www.postgresql.org/)
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
@@ -65,7 +65,7 @@ If you like or are using this project to learn or start your solution, please gi
       - [Sphinx](http://sphinxsearch.com/)
    4. NoSQL
       - [MongoDB](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-2.2&tabs=visual-studio)
-      - [Redis(used by nopcommerce)](https://redis.io/)
+      - [Redis](https://redis.io/)
       - [Apache Cassandra](http://cassandra.apache.org/)
       - [LiteDB](https://github.com/mbdavid/LiteDB)
       - [RavenDB](https://github.com/ravendb/ravendb)
