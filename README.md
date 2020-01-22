@@ -187,6 +187,10 @@ If you like or are using this project to learn or start your solution, please gi
     - [Singleton](https://www.dofactory.com/net/singleton-design-pattern)
     - [Facade](https://www.dofactory.com/net/facade-design-pattern)
     - [Mediator](https://www.dofactory.com/net/mediator-design-pattern)
+17. Study Resources
+     - [.NET Extensions](https://github.com/dotnet/extensions)
+    
+    
 
 ## Wrap Up
 
