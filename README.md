@@ -222,7 +222,10 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 <a href="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/website" target="_blank"><img src="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/avatar.svg"></a>
 
+### mozilla firefox download url
 
+
+<a href="http://ftp.mozilla.org/" target="_blank">http://ftp.mozilla.org/</a>
 
 ## License
 
