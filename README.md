@@ -13,7 +13,7 @@
    - SQL Fundamentals
 
 2. Install
-   1. 77
+   1. .NET 6.x
    - Learn GIT, create a few repositories on GitHub, share your code with other people
    - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - [How to Install and uninstall reinstall  upgrade .NET 6.x on Ubuntu 18.04*64 step by step](https://www.iaspnetcore.com/Blog/BlogPost/618a75d3635c733c81dc77c3/how-to-install-and-uninstall-reinstall-upgrade-net-6x-on-ubuntu-180464-step-by-step)
