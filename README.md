@@ -2,9 +2,6 @@
 
 
 
-## Roadmap
-
-![Roadmap](./aspnetcore-developer-roadmap.png)
 
 ## Resources
 
@@ -15,11 +12,11 @@
    - [ASP.NET Core](https://www.pluralsight.com/search?q=asp.net%20core)
    - SQL Fundamentals
 
-2. General Development Skills
-
+2. Install
+   1. 77
    - Learn GIT, create a few repositories on GitHub, share your code with other people
    - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
+   - [Microsoft.Extensions.DependencyInjection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2)
    - Learn [dotnet CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/?tabs=netcore2x)
    - Read a few books about algorithms and data structures
 
