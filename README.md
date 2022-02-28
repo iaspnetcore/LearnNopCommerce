@@ -1,6 +1,6 @@
 # Guide to Learn NopCommerce step by step for NopCommerce Developer
 
-
+In this tutorial you’ll set up and deploy a production-ready ASP.NET Core application NopCommerce with a MongoDb Server on Ubuntu 18.04 using Nginx.
 
 
 ## Resources
