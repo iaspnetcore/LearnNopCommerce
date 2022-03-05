@@ -169,8 +169,8 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
     - [Singleton](https://www.dofactory.com/net/singleton-design-pattern)
     - [Facade](https://www.dofactory.com/net/facade-design-pattern)
     - [Mediator](https://www.dofactory.com/net/mediator-design-pattern)
-17. Study Resources
-     - [.NET Extensions](https://github.com/dotnet/extensions)
+17. NopCommerce Extensions
+     - [nopCommerce v4.10 asp.net core 3 blazor server-side(single page eStore)](https://github.com/aybelanov/spaCommerce)
     
     
 
