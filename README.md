@@ -174,41 +174,11 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
     
     
 
-## Wrap Up
 
-If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
-
-Idea from : [React Developer RoadMap](https://github.com/adam-golab/react-developer-roadmap)
-
-## Contribution
-
-Want to contribute? We encourage community feedback and contributions. Please follow our [contributing guidelines](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/CONTRIBUTING.md).
-
-## Credits
-
-### Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/CONTRIBUTING.md)].
-
-<img src="https://opencollective.com/AspNetCore-Developer-Roadmap/contributors.svg?width=890&button=false" />
-
-### Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/AspNetCore-Developer-Roadmap#backer)]
-
-<a href="https://opencollective.com/AspNetCore-Developer-Roadmap#backers" target="_blank"><img src="https://opencollective.com/AspNetCore-Developer-Roadmap/backers.svg?width=890"></a>
-
-### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/AspNetCore-Developer-Roadmap#sponsor)]
-
-<a href="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/website" target="_blank"><img src="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/avatar.svg"></a>
 
 ### mozilla firefox download url
 
 
 <a href="http://ftp.mozilla.org/" target="_blank">http://ftp.mozilla.org/</a>
 
-## License
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
