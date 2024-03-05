@@ -111,13 +111,13 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
 12. Testing
 
-    1. Unit Testing
-       1. Frameworks
-          - [MSTest](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
-          - [NUnit](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit)
+    1. yarp Testing
+       1. Creating a Reverse Proxy Server with YARP
+          - [IHttpForwarder](https://www.cnblogs.com/TianFang/p/16357549.html)
+          - [IHttpForwarder](https://microsoft.github.io/reverse-proxy/articles/direct-forwarding.html)
           - [xUnit](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
-       2. Mocking
-          - [Moq](https://github.com/moq/moq4)
+       2. Intranet Penetration
+          - [Intranet Penetration - ](https://blog.csdn.net/sD7O95O/article/details/118616751)
           - [NSubstitute](https://github.com/nsubstitute/NSubstitute)
           - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)
        3. Assertion
