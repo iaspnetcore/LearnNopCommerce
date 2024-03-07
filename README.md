@@ -113,9 +113,9 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
     1. yarp Testing
        1. Creating a Reverse Proxy Server with YARP
-          - [IHttpForwarder](https://www.cnblogs.com/TianFang/p/16357549.html)  - IHttpForwarder local http://localhost:5132 
-          - [IHttpForwarder](https://microsoft.github.io/reverse-proxy/articles/direct-forwarding.html)
-          - [xUnit](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
+          - [IHttpForwarder](https://www.cnblogs.com/TianFang/p/16357549.html)  - custom IHttpForwarder -> local http://localhost:5132 
+          - [IHttpForwarder](https://microsoft.github.io/reverse-proxy/articles/direct-forwarding.html) - custom IHttpForwarder & HttpTransformer -> local http://localhost:5132 
+          - [IHttpForwarder](https://blog.csdn.net/sD7O95O/article/details/118616751)  - custom IHttpForwarder & HttpTransformer -> ConnectCallback -> remote http://localhost:5132 
        2. Intranet Penetration
           - [Intranet Penetration - ](https://blog.csdn.net/sD7O95O/article/details/118616751)
           - [NSubstitute](https://github.com/nsubstitute/NSubstitute)
@@ -123,8 +123,8 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
        3. Assertion
           - [FluentAssertion](https://github.com/fluentassertions/fluentassertions)
           - [Shouldly](https://github.com/shouldly/shouldly)
-    2. Behavior Testing
-       - [BDDfy](https://github.com/TestStack/TestStack.BDDfy)
+    2. Http Testing
+       - [create simple HTTP web servers in C# using HttpListener class](https://www.iaspnetcore.com/blogpost-65e9b9ab4cc16d028431b9c7-create-simple-http-web-servers-in-c-using-httplistener-class)
        - [SpecFlow](https://github.com/techtalk/SpecFlow/tree/DotNetCore)
        - [LightBDD](https://github.com/LightBDD/LightBDD)
     3. Integration Testing
