@@ -113,7 +113,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
     1. yarp Testing
        1. Creating a Reverse Proxy Server with YARP
-          - [IHttpForwarder](https://www.cnblogs.com/TianFang/p/16357549.html)
+          - [IHttpForwarder](https://www.cnblogs.com/TianFang/p/16357549.html)  - IHttpForwarder local http://localhost:5132 
           - [IHttpForwarder](https://microsoft.github.io/reverse-proxy/articles/direct-forwarding.html)
           - [xUnit](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
        2. Intranet Penetration
