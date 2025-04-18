@@ -24,7 +24,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
    1. DI Containers
       - [Microsoft.Extensions.DependencyInjection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2)
-      - [AutoFac(used by nopcommerce)](https://autofaccn.readthedocs.io/en/latest/integration/aspnetcore.html)
+      - [AutoFac(used by nopcommerce)](https://autofaccn.readthedocs.io/en/latest/integration/aspnetcore.html)   used by nopcommerce
       - [Ninject](http://www.ninject.org/)
       - [StructureMap](https://github.com/structuremap/structuremap)
       - [Castle Windsor](https://github.com/castleproject/Windsor)
@@ -34,10 +34,10 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 4. Databases
 
    1. Relational
-      1. [SQL Server(used by nopcommerce)](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
-      2. [PostgreSQL(used by nopcommerce)](https://www.postgresql.org/)
+      1. [SQL Server(used by nopcommerce)](https://www.microsoft.com/en-us/sql-server/sql-server-2017)   used by nopcommerce
+      2. [PostgreSQL(used by nopcommerce)](https://www.postgresql.org/)  used by nopcommerce
       3. [MariaDB](https://mariadb.org/)
-      4. [MySQL(used by nopcommerce)](https://www.mysql.com/)
+      4. [MySQL(used by nopcommerce)](https://www.mysql.com/)  used by nopcommerce
    2. Cloud Databases
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
@@ -69,7 +69,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
       - [Serilog](https://github.com/serilog/serilog)
       - [NLog](https://github.com/NLog/NLog)
       - [Elmah](https://elmah.github.io/)
-      - [own Log Frameworks]nopCommerce uses its own logging implementation (available in admin area)
+      - [own Log Frameworks]nopCommerce uses its own logging implementation (available in admin area)   used by nopcommerce
    2. Log Management System
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
@@ -86,7 +86,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
 9. Object Mapping
 
-   - [AutoMapper(used by nopcommerce)](https://github.com/AutoMapper/AutoMapper)
+   - [AutoMapper(used by nopcommerce)](https://github.com/AutoMapper/AutoMapper)  used by nopcommerce
    - [Mapster](https://github.com/MapsterMapper/Mapster)
    - [AgileMapper](https://github.com/agileobjects/AgileMapper)
    - [ExpressMapper](http://expressmapper.org/)
@@ -113,18 +113,18 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
     1. yarp Testing
        1. Creating a Reverse Proxy Server with YARP
-          - [IHttpForwarder](https://www.cnblogs.com/TianFang/p/16357549.html)  - custom IHttpForwarder -> local http://localhost:5132 
+          - [IHttpForwarder](https://www.cnblogs.com/TianFang/p/16357549.html)  - blog for custom IHttpForwarder -> local http://localhost:5132 
           - [IHttpForwarder](https://microsoft.github.io/reverse-proxy/articles/direct-forwarding.html) - custom IHttpForwarder & HttpTransformer -> local http://localhost:5132 
           - [IHttpForwarder](https://blog.csdn.net/sD7O95O/article/details/118616751)  - custom IHttpForwarder & HttpTransformer -> ConnectCallback -> remote http://localhost:5132 
        2. Intranet Penetration
-          - [Intranet Penetration - ](https://blog.csdn.net/sD7O95O/article/details/118616751)
+          - [Intranet Penetration with YARP](https://blog.csdn.net/sD7O95O/article/details/118616751)  blog for Intranet Penetration with YARP  
           - [NSubstitute](https://github.com/nsubstitute/NSubstitute)
           - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)
        3. Assertion
           - [FluentAssertion](https://github.com/fluentassertions/fluentassertions)
           - [Shouldly](https://github.com/shouldly/shouldly)
     2. Http Testing
-       - [create simple HTTP web servers in C# using HttpListener class](https://www.iaspnetcore.com/blogpost-65e9b9ab4cc16d028431b9c7-create-simple-http-web-servers-in-c-using-httplistener-class)
+       - [create simple HTTP web servers in C# using HttpListener class](https://www.iaspnetcore.com/blogpost-65e9b9ab4cc16d028431b9c7-create-simple-http-web-servers-in-c-using-httplistener-class)  blog
        - [SpecFlow](https://github.com/techtalk/SpecFlow/tree/DotNetCore)
        - [LightBDD](https://github.com/LightBDD/LightBDD)
     3. Integration Testing
@@ -170,7 +170,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
     - [Facade](https://www.dofactory.com/net/facade-design-pattern)
     - [Mediator](https://www.dofactory.com/net/mediator-design-pattern)
 17. NopCommerce Extensions
-     - [nopCommerce v4.10 asp.net core 3 blazor server-side(single page eStore)](https://github.com/aybelanov/spaCommerce)
+     - [nopCommerce v4.10 asp.net core 3 blazor server-side(single page eStore)](https://github.com/aybelanov/spaCommerce)  https://github.com/aybelanov/spaCommerce
     
     
 
