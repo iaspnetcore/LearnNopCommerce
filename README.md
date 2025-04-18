@@ -35,9 +35,9 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
    1. Relational
       1. [SQL Server(used by nopcommerce)](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
-      2. [PostgreSQL](https://www.postgresql.org/)
+      2. [PostgreSQL(used by nopcommerce)](https://www.postgresql.org/)
       3. [MariaDB](https://mariadb.org/)
-      4. [MySQL](https://www.mysql.com/)
+      4. [MySQL(used by nopcommerce)](https://www.mysql.com/)
    2. Cloud Databases
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
