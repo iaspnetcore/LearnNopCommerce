@@ -171,6 +171,11 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
     - [Mediator](https://www.dofactory.com/net/mediator-design-pattern)
 17. NopCommerce Extensions
      - [nopCommerce v4.10 asp.net core 3 blazor server-side(single page eStore)](https://github.com/aybelanov/spaCommerce)  https://github.com/aybelanov/spaCommerce
+18. NopCommerce training course
+     - [online course for developers](https://www.nopcommerce.com/en/training?utm_source=docs_nopcommerce&utm_medium=documentation&utm_campaign=course&utm_content=Developers_Guide)  [https://github.com/aybelanov/spaCommerce](https://www.nopcommerce.com/en/training?utm_source=docs_nopcommerce&utm_medium=documentation&utm_campaign=course&utm_content=Developers_Guide)
+     - Quickly run and configure websites of any complexity on nopCommerce
+     - Create integrations with third-party software
+     - Create and customize plugins and themes
     
     
 
