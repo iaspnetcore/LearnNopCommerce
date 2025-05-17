@@ -69,11 +69,12 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
       - [Serilog](https://github.com/serilog/serilog)
       - [NLog](https://github.com/NLog/NLog)
       - [Elmah](https://elmah.github.io/)
-      - [own Log Frameworks]nopCommerce uses its own logging implementation (available in admin area)   used by nopcommerce
    2. Log Management System
       - [Sentry.io](http://sentry.io)
       - [Loggly.com](https://loggly.com)
       - [Elmah.io](http://elmah.io)
+   3. own Log Frameworks
+      - [own Log Frameworks]nopCommerce uses its own logging implementation (available in admin area)   used by nopcommerce
 
 7. Template Engines
    1. [Razor](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-2.2)
