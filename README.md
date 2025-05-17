@@ -24,7 +24,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
    1. DI Containers
       - [Microsoft.Extensions.DependencyInjection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2)
-      - [AutoFac(used by nopcommerce)](https://autofaccn.readthedocs.io/en/latest/integration/aspnetcore.html)   used by nopcommerce
+      - :white_check_mark [AutoFac(used by nopcommerce)](https://autofaccn.readthedocs.io/en/latest/integration/aspnetcore.html)   used by nopcommerce
       - [Ninject](http://www.ninject.org/)
       - [StructureMap](https://github.com/structuremap/structuremap)
       - [Castle Windsor](https://github.com/castleproject/Windsor)
