@@ -35,7 +35,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
    1. Relational
       1. [x] [SQL Server(used by nopcommerce)](https://www.microsoft.com/en-us/sql-server/sql-server-2017)   used by nopcommerce
-      2. [PostgreSQL(used by nopcommerce)](https://www.postgresql.org/)  used by nopcommerce    [Detail]([https://cloud.tencent.com/document/product/378/17985](https://www.iaspnetcore.com/Blog/BlogPost/61b52362b294db797fbcfdda/how-to-install-and-uninstall-reinstall-postgresql-on-ubuntu-1804aliyun))    
+      2. [PostgreSQL(used by nopcommerce)](https://www.postgresql.org/)  used by nopcommerce    [Detail](https://cloud.tencent.com/document/product/378/17985](https://www.iaspnetcore.com/Blog/BlogPost/61b52362b294db797fbcfdda/how-to-install-and-uninstall-reinstall-postgresql-on-ubuntu-1804aliyun)   
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL(used by nopcommerce)](https://www.mysql.com/)  used by nopcommerce
    2. Cloud Databases
