@@ -34,7 +34,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 4. Databases
 
    1. Relational
-      1. [x][SQL Server(used by nopcommerce)](https://www.microsoft.com/en-us/sql-server/sql-server-2017)   used by nopcommerce
+      1. [x] [SQL Server(used by nopcommerce)](https://www.microsoft.com/en-us/sql-server/sql-server-2017)   used by nopcommerce
       2. [PostgreSQL(used by nopcommerce)](https://www.postgresql.org/)  used by nopcommerce
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL(used by nopcommerce)](https://www.mysql.com/)  used by nopcommerce
