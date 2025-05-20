@@ -62,6 +62,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
       1. [Redis(used by nopcommerce)](https://redis.io/)
       2. [Memcached](https://memcached.org/)
    3. [Memory Cache](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-2.2)
+   4. [x] [Custom Caching Manager Inteface]()  CacheKeyManager : ICacheKeyManager
 
 6. Logging
 
