@@ -35,9 +35,9 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
 
    1. Relational
       1. [x] [SQL Server(used by nopcommerce)](https://www.microsoft.com/en-us/sql-server/sql-server-2017)   used by nopcommerce
-      2. [PostgreSQL(used by nopcommerce)](https://www.postgresql.org/)  used by nopcommerce Learn [Detail](https://www.iaspnetcore.com/Blog/BlogPost/61b52362b294db797fbcfdda/how-to-install-and-uninstall-reinstall-postgresql-on-ubuntu-1804aliyun)     
+      2. [x] [PostgreSQL(used by nopcommerce)](https://www.postgresql.org/)  used by nopcommerce Learn [Detail](https://www.iaspnetcore.com/Blog/BlogPost/61b52362b294db797fbcfdda/how-to-install-and-uninstall-reinstall-postgresql-on-ubuntu-1804aliyun)     
       3. [MariaDB](https://mariadb.org/)
-      4. [MySQL(used by nopcommerce)](https://www.mysql.com/)  used by nopcommerce
+      4. [x] [MySQL(used by nopcommerce)](https://www.mysql.com/)  used by nopcommerce
    2. Cloud Databases
       - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb/)
@@ -62,7 +62,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
       1. [Redis(used by nopcommerce)](https://redis.io/)
       2. [Memcached](https://memcached.org/)
    3. [Memory Cache](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-2.2)
-   4. [x] [Custom Caching Manager Inteface]()  CacheKeyManager : ICacheKeyManager
+   4. [x] [Custom Caching Manager Inteface](https://www.iaspnetcore.com/Blog/BlogPost/5830fcb584cd4535881c6a13/analysis-of-cache-in-nopcommerce-3-x)  CacheKeyManager : ICacheKeyManager
 
 6. Logging
 
@@ -75,7 +75,7 @@ In this tutorial you’ll set up and deploy a production-ready ASP.NET Core appl
       - [Loggly.com](https://loggly.com)
       - [Elmah.io](http://elmah.io)
    3. own Log Frameworks
-      - [own Log Frameworks]nopCommerce uses its own logging implementation (available in admin area)   used by nopcommerce
+      - [x] [own Log Frameworks]nopCommerce uses its own logging implementation (available in admin area)   used by nopcommerce
 
 7. Template Engines
    1. [Razor](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-2.2)
